@@ -86,10 +86,9 @@ My goal is to grow as a full-stack developer and build impactful web application
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subornakter&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subornakter)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=subornakter&theme=dark&hide_border=false)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
