@@ -40,6 +40,7 @@ I’m currently expanding my skills in the MERN Stack, learning and working with
 
 I enjoy learning new tools, enhancing UI/UX designs, and writing clean, efficient code.
 My goal is to grow as a full-stack developer and build impactful web applications that solve real-world problems.
+
 📫 Reach me at **subornakter01@gmail.com**
 
 ---
