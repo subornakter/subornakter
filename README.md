@@ -72,48 +72,109 @@ My goal is to grow as a full-stack developer and build impactful web application
 
 <p align="left">
 
-<!-- C -->
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<!-- C++ -->
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Java -->
-<a href="https://www.java.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-
-<!-- Python -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-</p>
+<table>
+  <tr>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" /><br>C
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br>C++
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>python
+    </td>
+  </tr>
+</table>
 
       
 
 ### 🖥️ Frontend 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br>React
+    </td>
+  </tr>
+</table>
 
 
 ### 🔧 Backend  
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  </p>
+<!-- <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  </p> -->
+<table>
+<tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /><br>Bootstrap
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" /><br>Express.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br>Figma
+    </td>
+  </tr>
+</table>
 
 ### Database
 
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<!-- <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p> -->
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & Platforms  
-<p align="left"> <!-- Git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- GitHub --> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <!-- VS Code --> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <!-- Netlify --> <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> <!-- Vercel --> <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
- </p>
+ <p align="left">
+<table border='0'>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" /><br>Windows
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /><br>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" /><br>Netlify
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /><br>FireBase
+    </td>
+      
+  </tr>
+</table>
 
  
 <table>
