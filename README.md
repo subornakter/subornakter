@@ -107,6 +107,9 @@ My goal is to grow as a full-stack developer and build impactful web application
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br>React
     </td>
+       <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=next" width="48" height="48" /><br>Next
+    </td>
   </tr>
 </table>
 
