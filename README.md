@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🧑‍💻 About Me
- I'm a passionate Frontend Developer with a strong focus on building clean, user-friendly, and visually appealing web interfaces.
+ I'm a passionate MERN Stack Developer with a strong focus on building clean, user-friendly, and visually appealing web interfaces.
 I love turning ideas into interactive digital experiences using modern web technologies.
 
 I’m currently expanding my skills in the MERN Stack, learning and working with:
